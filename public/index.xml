@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aravind K Subash</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Aravind K Subash</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>👋 Hey there! I&amp;rsquo;m Aravind Link to heading 👨🏻‍💻 About Me Link to heading 💡 Figuring out the sense of life 🎓 Computer science and Engineering student @Government Engineering college Palakkad , Kerala.
+🏠 living in Kerala, India 🌱 A Developer who currently used MERN stack to build stuffs ✍️ Anime🎬️🍿,music🎼 and trying out something new as hobbies/side hustles .
+🥷 Keen learner 👥 I’m looking to collaborate with other programmers.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/contact/</guid>
+      <description>Follow me, @iamAravindks.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+  </channel>
+</rss>
